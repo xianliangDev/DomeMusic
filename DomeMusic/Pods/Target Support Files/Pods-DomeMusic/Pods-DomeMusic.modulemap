@@ -1,0 +1,6 @@
+module Pods_DomeMusic {
+  umbrella header "Pods-DomeMusic-umbrella.h"
+
+  export *
+  module * { export * }
+}
